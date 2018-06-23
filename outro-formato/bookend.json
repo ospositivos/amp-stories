@@ -1,0 +1,21 @@
+{
+  "share-providers": {
+    "facebook": false,
+    "twitter": false,
+    "email": true
+  },
+  "related-articles": {
+    "Mais Leituras": [
+      {
+        "title": "OS POSIIVOS",
+        "url": "https://www.ospositivos.com",
+        "image": "assets/xp.png"
+      },
+      {
+        "title": "Webcomics et punx",
+        "url": "https://www.ospositivos.com/2017/12/webcomics-et-punx.html",
+        "image": "assets/spet.jpg"
+      }      
+    ]
+  }
+}
