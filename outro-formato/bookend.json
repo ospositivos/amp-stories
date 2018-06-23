@@ -7,9 +7,14 @@
   "related-articles": {
     "Mais Leituras": [
       {
-        "title": "OS POSIIVOS",
+        "title": "OS POSITIVOS",
         "url": "https://www.ospositivos.com",
         "image": "assets/xp.png"
+      },
+      {
+        "title": "...Previously #12",
+        "url": "https://www.ospositivos.com/2018/01/previously-xii.html",
+        "image": "assets/previously12.png"
       },
       {
         "title": "Webcomics et punx",
